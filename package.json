@@ -1,0 +1,13 @@
+{
+  "name": "codie-server",
+  "version": "1.0.0",
+  "description": "A node.js server to control a Codie robot remotely or use it as a Scratch extension",
+  "main": "index.js",
+  "author": "Zoltan Bettenbuk",
+  "license": "AGPL-1.0",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "codiejs": "^1.0.1",
+    "express": "^4.14.0"
+  }
+}
